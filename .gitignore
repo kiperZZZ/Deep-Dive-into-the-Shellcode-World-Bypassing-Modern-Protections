@@ -15,4 +15,4 @@ shellcodes/no-null-byte
 shellcodes/seccomp_whitelist
 shellcodes/staged
 
-.gitignore
+.vscode/
