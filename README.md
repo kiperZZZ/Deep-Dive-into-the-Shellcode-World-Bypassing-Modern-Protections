@@ -28,11 +28,9 @@ Présentation sur le shellcoding et le contournement des certaines protections e
 │   ├── Makefile                 # Compilation des challenges
 │   └── flag.txt                 # Flag à capturer
 └── slides/                      # Présentation
-    ├── prez.md                  # Source Marp de la présentation
     ├── prez.pdf                 # Présentation au format PDF
-    ├── prez.pptx                # Présentation au format PowerPoint
-    ├── pdp.jpg                  # Photo de profil
-    └── seccomp.png              # Schéma seccomp
+    └── prez.pptx                # Présentation au format PowerPoint
+
 ```
 
 ## Compilation et utilisation
