@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Présentation sur le shellcoding et le contournement des certaines protections en sécurité offensive. Cette présentation a été réalisée dans le cadre d'une conférence à **0x41** et explore différentes techniques d'exploitation et de bypass de mécanismes de sécurité.
+Présentation sur le shellcoding et le contournement des certaines protections en sécurité offensive. Cette présentation a été réalisée dans le cadre d'une conférence et explore différentes techniques d'exploitation et de bypass de mécanismes de sécurité.
 
 ## Objectifs
 
