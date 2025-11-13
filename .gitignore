@@ -1,0 +1,16 @@
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+
+# Markdown
+*.md
+
+# Binaires compilés
+shellcodes/firstshellcode
+shellcodes/no-null-byte
+shellcodes/seccomp_whitelist
+shellcodes/staged
