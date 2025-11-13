@@ -16,3 +16,10 @@ shellcodes/seccomp_whitelist
 shellcodes/staged
 
 .vscode/
+
+# Fichiers lock
+.~lock.*
+*~
+
+# Historique GDB
+.gdb_history
