@@ -72,7 +72,7 @@ python3 seccomp.py
   - Utilisation de petits registres (`mov al, 59`)
 
 ### 3. **Staged Shellcodes**
-- Problème : Limitation de taille (22 bytes)
+- Problème : Limitation de taille (21 bytes)
 - Solution : Shellcode en 2 étapes
   - Stage 1 : Lit le stage 2 depuis stdin
   - Stage 2 : Shellcode complet
